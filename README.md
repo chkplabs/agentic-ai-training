@@ -1,1 +1,1 @@
-# agentic-ai-training
+# Agentic AI Training — Miguel Angulo
